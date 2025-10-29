@@ -282,6 +282,3 @@ Through systematic preprocessing (encoding, VIF-based feature selection, outlier
 ### 👨‍💻 **Author**
 
 **David Obi**
-
-
-Would you like me to include a **`requirements.txt`** section right below this README (with all the dependencies listed explicitly)?
